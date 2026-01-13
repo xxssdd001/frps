@@ -1,7 +1,7 @@
-bindAddr = "0.0.0.0"
-bindPort = 7000
+bindAddr = "frp.mysnow.dpdns.org"
+bindPort = 19933
 #kcpBindPort = 7000
-quicBindPort = 7000
+quicBindPort = 19933
 
 vhostHTTPPort = 80
 vhostHTTPSPort = 443
@@ -15,7 +15,7 @@ transport.tls.force = false
 webServer.addr = "0.0.0.0"
 webServer.port = 7500
 webServer.user = "admin"
-webServer.password = "admin"
+webServer.password = "admin2026"
 webServer.pprofEnable = false
 
 log.to = "./frps.log"
@@ -24,7 +24,7 @@ log.maxDays = 3
 log.disablePrintColor = false
 
 auth.method = "token"
-auth.token = "12345678"
+auth.token = "hsjdhyt868sd89sd6S7D7D67d9928ss8a7NJJ"
 
 allowPorts = [
   { start = 10001, end = 50000 }
