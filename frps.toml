@@ -1,4 +1,4 @@
-bindAddr = "frp.mysnow.dpdns.org"
+bindAddr = "0.0.0.0"
 bindPort = 19933
 #kcpBindPort = 7000
 quicBindPort = 19933
